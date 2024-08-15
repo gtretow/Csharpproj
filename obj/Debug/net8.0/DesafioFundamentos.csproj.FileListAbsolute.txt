@@ -1,0 +1,14 @@
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+E:\Estudos\trabalhosCSharp\primeiroTeste\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
