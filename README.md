@@ -12,4 +12,3 @@ Pré-requisitos:
 
     Computador com SO de sua preferência(Windows, Linux, Mac OS);
 
-Ferramentas de Desenvolvimento (IDE)
